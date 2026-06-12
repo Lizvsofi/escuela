@@ -1,0 +1,9 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {1}Introducción}{2}{}%
+\contentsline {section}{\numberline {2}Descripción del problema}{2}{}%
+\contentsline {section}{\numberline {3}Análisis}{2}{}%
+\contentsline {section}{\numberline {4}Diagramas y resultados}{2}{}%
+\contentsline {subsection}{\numberline {4.1}Diagrama Entidad-Relación}{2}{}%
+\contentsline {subsection}{\numberline {4.2}Resultados de las consultas}{2}{}%
+\contentsline {subsection}{\numberline {4.3}Resultados visuales}{3}{}%
+\contentsline {section}{\numberline {5}Conclusiones}{6}{}%

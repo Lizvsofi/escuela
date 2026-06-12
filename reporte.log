@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.6.1)  8 JUN 2026 10:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.6.1)  12 JUN 2026 09:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -79,9 +79,19 @@ File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen150
 \Gin@req@width=\dimen151
+) (C:\Users\Lizeth\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count286
+\float@exts=\toks19
+\float@box=\box53
+\@float@everytoks=\toks20
+\@floatcapt=\box54
+) (C:\Users\Lizeth\AppData\Local\Programs\MiKTeX\tex/latex/tools\enumerate.sty
+Package: enumerate 2023/07/04 v3.00 enumerate extensions (DPC)
+\@enLab=\toks21
 ) (C:\Users\Lizeth\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count286
+\l__color_backend_stack_int=\count287
 ) (reporte.aux
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
@@ -90,35 +100,35 @@ Package babel Info: 'spanish' activates 'spanish' shorthands.
 )
 \openout1 = `reporte.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Info: Redefining \. on input line 10.
-LaTeX Info: Redefining \% on input line 10.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Info: Redefining \. on input line 12.
+LaTeX Info: Redefining \% on input line 12.
  (C:\Users\Lizeth\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count287
+\scratchcounter=\count288
 \scratchdimen=\dimen152
-\scratchbox=\box53
-\nofMPsegments=\count288
-\nofMParguments=\count289
-\everyMPshowfont=\toks19
-\MPscratchCnt=\count290
+\scratchbox=\box55
+\nofMPsegments=\count289
+\nofMParguments=\count290
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count291
 \MPscratchDim=\dimen153
-\MPnumerator=\count291
-\makeMPintoPDFobject=\count292
-\everyMPtoPDFconversion=\toks20
+\MPnumerator=\count292
+\makeMPintoPDFobject=\count293
+\everyMPtoPDFconversion=\toks23
 ) (C:\Users\Lizeth\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -126,21 +136,110 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 11.
+(Font)              <14.4> on input line 14.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 11.
-<imgs/diagrams.jpeg, id=1, 1009.7725pt x 765.86125pt>
+(Font)              <7> on input line 14.
+ (reporte.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 6.
+)
+\tf@toc=\write3
+\openout3 = `reporte.toc'.
+
+ [1
+
+{C:/Users/Lizeth/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+<imgs/diagrams.jpeg, id=9, 1009.7725pt x 765.86125pt>
 File: imgs/diagrams.jpeg Graphic file (type jpg)
 <use imgs/diagrams.jpeg>
-Package pdftex.def Info: imgs/diagrams.jpeg  used on input line 22.
+Package pdftex.def Info: imgs/diagrams.jpeg  used on input line 30.
 (pdftex.def)             Requested size: 312.00119pt x 236.63156pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[1
-
-{C:/Users/Lizeth/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2 <./imgs/diagrams.jpeg>] (reporte.aux
+ [2 <./imgs/diagrams.jpeg>]
+<imgs/pregunta1.png, id=13, 371.9496pt x 93.951pt>
+File: imgs/pregunta1.png Graphic file (type png)
+<use imgs/pregunta1.png>
+Package pdftex.def Info: imgs/pregunta1.png  used on input line 58.
+(pdftex.def)             Requested size: 292.5pt x 73.88359pt.
+<imgs/pregunta2.png, id=14, 366.168pt x 65.043pt>
+File: imgs/pregunta2.png Graphic file (type png)
+<use imgs/pregunta2.png>
+Package pdftex.def Info: imgs/pregunta2.png  used on input line 64.
+(pdftex.def)             Requested size: 292.5pt x 51.95804pt.
+<imgs/pregunta3.png, id=15, 443.7378pt x 148.3944pt>
+File: imgs/pregunta3.png Graphic file (type png)
+<use imgs/pregunta3.png>
+Package pdftex.def Info: imgs/pregunta3.png  used on input line 70.
+(pdftex.def)             Requested size: 292.5pt x 97.82059pt.
+ [3 <./imgs/pregunta1.png> <./imgs/pregunta2.png>]
+<imgs/pregunta4.png, id=22, 369.5406pt x 128.6406pt>
+File: imgs/pregunta4.png Graphic file (type png)
+<use imgs/pregunta4.png>
+Package pdftex.def Info: imgs/pregunta4.png  used on input line 76.
+(pdftex.def)             Requested size: 292.5pt x 101.8232pt.
+<imgs/pregunta5.png, id=23, 372.4314pt x 109.8504pt>
+File: imgs/pregunta5.png Graphic file (type png)
+<use imgs/pregunta5.png>
+Package pdftex.def Info: imgs/pregunta5.png  used on input line 82.
+(pdftex.def)             Requested size: 292.5pt x 86.27966pt.
+<imgs/pregunta6.png, id=24, 374.8404pt x 74.1972pt>
+File: imgs/pregunta6.png Graphic file (type png)
+<use imgs/pregunta6.png>
+Package pdftex.def Info: imgs/pregunta6.png  used on input line 88.
+(pdftex.def)             Requested size: 292.5pt x 57.90187pt.
+<imgs/pregunta7.png, id=25, 361.35pt x 66.9702pt>
+File: imgs/pregunta7.png Graphic file (type png)
+<use imgs/pregunta7.png>
+Package pdftex.def Info: imgs/pregunta7.png  used on input line 94.
+(pdftex.def)             Requested size: 292.5pt x 54.2098pt.
+ [4 <./imgs/pregunta3.png> <./imgs/pregunta4.png> <./imgs/pregunta5.png> <./imgs/pregunta6.png>]
+<imgs/pregunta8.png, id=33, 352.1958pt x 65.043pt>
+File: imgs/pregunta8.png Graphic file (type png)
+<use imgs/pregunta8.png>
+Package pdftex.def Info: imgs/pregunta8.png  used on input line 100.
+(pdftex.def)             Requested size: 292.5pt x 54.01941pt.
+<imgs/pregunta9.png, id=34, 301.6068pt x 65.043pt>
+File: imgs/pregunta9.png Graphic file (type png)
+<use imgs/pregunta9.png>
+Package pdftex.def Info: imgs/pregunta9.png  used on input line 106.
+(pdftex.def)             Requested size: 292.5pt x 63.0807pt.
+<imgs/pregunta10.png, id=35, 358.941pt x 111.7776pt>
+File: imgs/pregunta10.png Graphic file (type png)
+<use imgs/pregunta10.png>
+Package pdftex.def Info: imgs/pregunta10.png  used on input line 112.
+(pdftex.def)             Requested size: 292.5pt x 91.08684pt.
+<imgs/pregunta11.png, id=36, 369.5406pt x 85.7604pt>
+File: imgs/pregunta11.png Graphic file (type png)
+<use imgs/pregunta11.png>
+Package pdftex.def Info: imgs/pregunta11.png  used on input line 118.
+(pdftex.def)             Requested size: 292.5pt x 67.88213pt.
+<imgs/pregunta12.png, id=37, 358.941pt x 103.1052pt>
+File: imgs/pregunta12.png Graphic file (type png)
+<use imgs/pregunta12.png>
+Package pdftex.def Info: imgs/pregunta12.png  used on input line 124.
+(pdftex.def)             Requested size: 292.5pt x 84.01976pt.
+ [5 <./imgs/pregunta7.png> <./imgs/pregunta8.png> <./imgs/pregunta9.png> <./imgs/pregunta10.png> <./imgs/pregunta11.png>]
+<imgs/pregunta13.png, id=46, 363.2772pt x 65.043pt>
+File: imgs/pregunta13.png Graphic file (type png)
+<use imgs/pregunta13.png>
+Package pdftex.def Info: imgs/pregunta13.png  used on input line 130.
+(pdftex.def)             Requested size: 292.5pt x 52.37389pt.
+<imgs/pregunta14.png, id=47, 370.986pt x 80.4606pt>
+File: imgs/pregunta14.png Graphic file (type png)
+<use imgs/pregunta14.png>
+Package pdftex.def Info: imgs/pregunta14.png  used on input line 136.
+(pdftex.def)             Requested size: 292.5pt x 63.4404pt.
+<imgs/pregunta15.png, id=48, 360.3864pt x 75.6426pt>
+File: imgs/pregunta15.png Graphic file (type png)
+<use imgs/pregunta15.png>
+Package pdftex.def Info: imgs/pregunta15.png  used on input line 142.
+(pdftex.def)             Requested size: 292.5pt x 61.3948pt.
+ [6 <./imgs/pregunta12.png> <./imgs/pregunta13.png> <./imgs/pregunta14.png> <./imgs/pregunta15.png>] (reporte.aux
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 )
@@ -150,17 +249,17 @@ L3 programming layer <2025-12-24>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 2778 strings out of 467871
- 47306 string characters out of 5417893
- 461075 words of memory out of 5000000
- 31678 multiletter control sequences out of 15000+600000
- 630491 words of font info for 49 fonts, out of 8000000 for 9000
+ 3019 strings out of 467871
+ 52254 string characters out of 5417893
+ 465842 words of memory out of 5000000
+ 31903 multiletter control sequences out of 15000+600000
+ 633236 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,6n,65p,244b,365s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,6n,65p,259b,365s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Lizeth/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Lizeth/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Lizeth/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Lizeth/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on reporte.pdf (2 pages, 221412 bytes).
+Output written on reporte.pdf (6 pages, 923942 bytes).
 PDF statistics:
- 30 PDF objects out of 1000 (max. 8388607)
+ 73 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 81 words of extra memory for PDF output out of 10000 (max. 10000000)
 
